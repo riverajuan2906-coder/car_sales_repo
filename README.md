@@ -10,3 +10,6 @@ de venta de vehículos usados en EE.UU.
 
 ## Tecnologías
 - Python, Pandas, Plotly Express, Streamlit
+
+## Link del Render
+Link a la aplicación en vivo: https://car-sales-repo.onrender.com/
